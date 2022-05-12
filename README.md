@@ -24,6 +24,9 @@ yarn
 
 ## 4. Run the app
 yarn dev
+
+## 5. Run the api
+yarn server
 ```
 
 ## 🤔 How to contribute
